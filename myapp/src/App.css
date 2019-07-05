@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.a-container {
+    border: 1px red solid;
+    width: 375px;
+}
+.header {
+    background-color: red;
+    color: #ffffff;
+}
+.content {
+    box-sizing: border-box;
+}
+.content img {
+    width: 100%;
+    display: block;
+}
